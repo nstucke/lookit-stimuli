@@ -1,6 +1,6 @@
 # Developing Minds Lab Lookit Stimuli
 
-The instructions below are primarily intended for people with limited experience using GitHub or Git. If you are already comfortable using git via the command line or a desktop client and pushing your changes to GitHub, there is no need to use the GitHub web interface.
+This file includes a number of reminders for how Github can be used in conjunction with Lootit's JSON programming language.
 
 ## Adding your stimuli
 
